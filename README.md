@@ -1,10 +1,19 @@
+[![NPM version](https://img.shields.io/npm/v/community-cordova-plugin-disk-space)](https://www.npmjs.com/package/community-cordova-plugin-disk-space)
+[![Downloads](https://img.shields.io/npm/dm/community-cordova-plugin-disk-space)](https://www.npmjs.com/package/community-cordova-plugin-disk-space)
+
+
+
+#### This is a fork of the original plugin sqli-cordova-disk-space-plugin
+
+
+
 # Disk Space Plugin
 This plugin allows to get information about disk space in Android / iOS / Windows 10 platforms.
 
 ## Installation
 To use this plugin in a project, you have to do:
 
-	cordova plugin add https://github.com/sqli/sqli-cordova-disk-space-plugin.git
+	cordova plugin add community-cordova-plugin-disk-space
 
 Add your platforms targeted:
 

@@ -1,12 +1,15 @@
 {
-  "name": "sqli-cordova-disk-space-plugin",
-  "version": "1.0.3",
+  "name": "community-cordova-plugin-disk-space",
+  "version": "1.1.0",
   "contributors": [
     {
       "name": "Damien Guérin",
       "email": "dguerin@sqli.com"
     }
   ],
+  "repository": "EYALIN/community-cordova-plugin-disk-space/tree/master",
+  "homepage": "https://github.com/EYALIN/community-cordova-plugin-disk-space/tree/master",
+  "funding": "https://github.com/sponsors/EYALIN",
   "keywords": [
     "ecosystem:cordova",
     "cordova-android",
